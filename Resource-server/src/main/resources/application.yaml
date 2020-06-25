@@ -1,0 +1,7 @@
+server:
+  port: 8088
+user:
+  clientId: luminn
+  clientSecret: $2a$10$mUNC1jaWVfUTnX3Wel8CnuhjcG6kSR4oPfI8B5rDqo9cEaT0AOZvq
+jwt:
+  security: luminnsecurity

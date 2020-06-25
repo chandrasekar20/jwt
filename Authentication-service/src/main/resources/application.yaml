@@ -1,0 +1,10 @@
+jwt:
+  security: luminnsecurity
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 477774850524-5s0sku5sll950552ri3030sou0sqj1aq.apps.googleusercontent.com
+            client-secret: Lc9siInDpcBxuIFKa2owsR3a
